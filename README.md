@@ -56,10 +56,9 @@ Financial Statement.pbix
 
 ## 🎥 Preview 
 
-<p align="center">
-    <img src="Preview-Financial-Statement.png" width="600"/>
-  </a>
-</p>
+## 📷 Dashboard Preview
+
+![Dashboard Preview](assets/Preview-Financial-Statement.png)
 ---
 
 ## 🚀 How to Open
