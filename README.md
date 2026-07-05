@@ -56,9 +56,8 @@ Financial Statement.pbix
 
 ## 📷 Dashboard Preview
 
-
 <p align="center">
-  <img src="Preview-Financial-Statement.png" width="600"/>
+  <img src="./assets/preview-financial-statement" width="600">
 </p>
 ---
 
