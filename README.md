@@ -58,7 +58,7 @@ Financial Statement.pbix
 
 
 <p align="center">
-  <img src="assets/Preview Financial Statement.png" width="600"/>
+  <img src="assets/Preview-Financial-Statement.png" width="600"/>
 </p>
 ---
 
