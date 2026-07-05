@@ -58,7 +58,7 @@ Financial Statement.pbix
 
 <p align="center">
   <a href="https://youtu.be/8qpWJCGv_dc">
-    <img src="Previw-Financial-Statement.png" width="600"/>
+    <img src="Preview-Financial-Statement.png" width="600"/>
   </a>
 </p>
 ---
