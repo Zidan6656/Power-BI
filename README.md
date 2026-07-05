@@ -53,7 +53,7 @@ Beberapa fitur yang digunakan dalam dashboard:
 ```bash id="y8h2pu"
 Financial Statement.pbix
 ```
-
+---
 ## 🚀 How to Open
 
 1. Download repository ini
