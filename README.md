@@ -66,10 +66,8 @@ Financial Statement.pbix
 
 ## 📷 Dashboard Preview
 
-Tambahkan screenshot dashboard pada folder:
-
 ```bash id="0mjlwm"
-/assets/dashboard-preview.png
+"C:\Users\acer\Pictures\Screenshots\Screenshot 2026-07-05 145536.png"
 ```
 
 Lalu tampilkan menggunakan:
