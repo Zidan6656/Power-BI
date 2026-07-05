@@ -53,7 +53,6 @@ Beberapa fitur yang digunakan dalam dashboard:
 ```bash id="y8h2pu"
 Financial Statement.pbix
 ```
-
 ---
 
 ## 🚀 How to Open
@@ -61,20 +60,6 @@ Financial Statement.pbix
 1. Download repository ini
 2. Buka file `.pbix`
 3. Jalankan menggunakan Power BI Desktop
-
----
-
-## 📷 Dashboard Preview
-
-```bash id="0mjlwm"
-"C:\Users\acer\Pictures\Screenshots\Screenshot 2026-07-05 145536.png"
-```
-
-Lalu tampilkan menggunakan:
-
-```markdown id="nkp6dl"
-![Dashboard Preview](assets/dashboard-preview.png)
-```
 
 ---
 
@@ -102,4 +87,3 @@ Beberapa bagian dashboard mengikuti tutorial resmi dari Microsoft dan kemudian d
 
 **Muhammad Zidan**
 
-GitHub: tambahkan-link-github-kamu-di-sini
