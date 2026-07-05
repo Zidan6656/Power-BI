@@ -54,13 +54,6 @@ Beberapa fitur yang digunakan dalam dashboard:
 Financial Statement.pbix
 ```
 
-## 📷 Dashboard Preview
-
-<p align="center">
-  <img src="assets/preview-financial-statement.png" width="900"/>
-</p>
----
-
 ## 🚀 How to Open
 
 1. Download repository ini
